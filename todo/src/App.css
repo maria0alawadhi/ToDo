@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(13, 4, 34);
+  color: white;
+}
+
+h1 {
+  background-color: rgba(105, 22, 1, 0.603);
+  margin-top: 0;
+  padding: 2%;
+  text-align: center;
+}
+
+footer {
+  margin-bottom: 0;
+  background-color: rgba(105, 22, 1, 0.603);
+  padding: 2%;
+}
